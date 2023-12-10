@@ -7,3 +7,10 @@
   .mobile-menu {
     display: flex;
   }
+  
+  
+  .mobile-menu {
+    align-items: center;
+    text-align: center;
+    align-content: flex-end;
+  }
